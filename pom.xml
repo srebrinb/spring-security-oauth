@@ -86,8 +86,8 @@
 		<module>spring-security-oauth-server</module>
 
 		<!-- commented out because these don't build on Jenkins -->
-<!-- 		<module>spring-security-oauth-ui-implicit-angular4</module>
-		<module>spring-security-oauth-ui-password-angular4</module> -->
+ 		<module>spring-security-oauth-ui-implicit-angular4</module>
+		<module>spring-security-oauth-ui-password-angular4</module> 
 	</modules>
 
 </project>
